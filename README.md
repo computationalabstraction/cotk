@@ -1,2 +1,2 @@
-# fptk
-Bulletproof Functional Programming toolkit for Javascript and Typescript
+# COTK
+Common Utilities operations in Javascript
